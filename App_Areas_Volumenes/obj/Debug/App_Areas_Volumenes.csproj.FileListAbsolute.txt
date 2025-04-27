@@ -1,0 +1,15 @@
+D:\C#\Area_Volumen\App_Areas_Volumenes\bin\Debug\App_Areas_Volumenes.exe.config
+D:\C#\Area_Volumen\App_Areas_Volumenes\bin\Debug\App_Areas_Volumenes.exe
+D:\C#\Area_Volumen\App_Areas_Volumenes\bin\Debug\App_Areas_Volumenes.pdb
+D:\C#\Area_Volumen\App_Areas_Volumenes\obj\Debug\App_Areas_Volumenes.csproj.AssemblyReference.cache
+D:\C#\Area_Volumen\App_Areas_Volumenes\obj\Debug\App_Areas_Volumenes.Properties.Resources.resources
+D:\C#\Area_Volumen\App_Areas_Volumenes\obj\Debug\App_Areas_Volumenes.csproj.GenerateResource.cache
+D:\C#\Area_Volumen\App_Areas_Volumenes\obj\Debug\App_Areas_Volumenes.csproj.CoreCompileInputs.cache
+D:\C#\Area_Volumen\App_Areas_Volumenes\obj\Debug\App_Areas_Volumenes.exe
+D:\C#\Area_Volumen\App_Areas_Volumenes\obj\Debug\App_Areas_Volumenes.pdb
+D:\C#\Area_Volumen\App_Areas_Volumenes\obj\Debug\App_Areas_Volumenes.FiguraGeometricas.resources
+D:\C#\Area_Volumen\App_Areas_Volumenes\bin\Debug\CalculosGeometricos.dll
+D:\C#\Area_Volumen\App_Areas_Volumenes\bin\Debug\FigurasGeometricas.dll
+D:\C#\Area_Volumen\App_Areas_Volumenes\bin\Debug\CalculosGeometricos.pdb
+D:\C#\Area_Volumen\App_Areas_Volumenes\bin\Debug\FigurasGeometricas.pdb
+D:\C#\Area_Volumen\App_Areas_Volumenes\obj\Debug\App_Area.FEFD69B7.Up2Date

@@ -1,0 +1,9 @@
+D:\C#\Area_Volumen\FigurasGeometricas\bin\Debug\FigurasGeometricas.dll
+D:\C#\Area_Volumen\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+D:\C#\Area_Volumen\FigurasGeometricas\bin\Debug\CalculosGeometricos.dll
+D:\C#\Area_Volumen\FigurasGeometricas\bin\Debug\CalculosGeometricos.pdb
+D:\C#\Area_Volumen\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.AssemblyReference.cache
+D:\C#\Area_Volumen\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
+D:\C#\Area_Volumen\FigurasGeometricas\obj\Debug\FigurasG.3D2FF78C.Up2Date
+D:\C#\Area_Volumen\FigurasGeometricas\obj\Debug\FigurasGeometricas.dll
+D:\C#\Area_Volumen\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb

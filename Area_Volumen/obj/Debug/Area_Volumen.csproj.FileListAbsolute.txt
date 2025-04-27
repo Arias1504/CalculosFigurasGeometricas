@@ -1,0 +1,12 @@
+D:\C#\Area_Volumen\Area_Volumen\bin\Debug\Area_Volumen.exe.config
+D:\C#\Area_Volumen\Area_Volumen\bin\Debug\Area_Volumen.exe
+D:\C#\Area_Volumen\Area_Volumen\bin\Debug\Area_Volumen.pdb
+D:\C#\Area_Volumen\Area_Volumen\bin\Debug\CalculosGeometricos.dll
+D:\C#\Area_Volumen\Area_Volumen\bin\Debug\CalculosGeometricos.pdb
+D:\C#\Area_Volumen\Area_Volumen\bin\Debug\FigurasGeometricas.pdb
+D:\C#\Area_Volumen\Area_Volumen\obj\Debug\Area_Volumen.csproj.AssemblyReference.cache
+D:\C#\Area_Volumen\Area_Volumen\obj\Debug\Area_Volumen.csproj.CoreCompileInputs.cache
+D:\C#\Area_Volumen\Area_Volumen\obj\Debug\Area_Vol.19BE8809.Up2Date
+D:\C#\Area_Volumen\Area_Volumen\obj\Debug\Area_Volumen.exe
+D:\C#\Area_Volumen\Area_Volumen\obj\Debug\Area_Volumen.pdb
+D:\C#\Area_Volumen\Area_Volumen\bin\Debug\FigurasGeometricas.dll
