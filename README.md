@@ -29,4 +29,5 @@ Incluye dos versiones de la aplicación:
 
 ## Autor
 
+Proyecto desarrollado por [Arias1504](https://github.com/Arias1504).
 
