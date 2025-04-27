@@ -27,5 +27,6 @@ Incluye dos versiones de la aplicación:
 
 ---
 
-## Estructura del Proyecto
+## Autor
+
 
