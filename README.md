@@ -22,7 +22,7 @@ Incluye dos versiones de la aplicación:
 
 ## Captura de Pantalla (Windows Forms)
 
-![Vista previa de la aplicación]([/ruta/a/tu/imagen.png](https://github.com/Arias1504/CalculosFigurasGeometricas/blob/2eeca18a6a44546ca4ebb7322c3d979d9189b247/Screenshot.png))  
+![image alt](https://github.com/Arias1504/CalculosFigurasGeometricas/blob/2eeca18a6a44546ca4ebb7322c3d979d9189b247/Screenshot.png)  
 
 
 ---
